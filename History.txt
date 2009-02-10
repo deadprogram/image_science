@@ -1,3 +1,8 @@
+== 1.1.4 / 2009-02-09
+
+* 1 minor enhancement
+  * Added patch from choonkeat http://blog.choonkeat.com/weblog/2007/10/lesson-1-after-.html that properly handles images that use 
+
 == 1.1.3 / 2007-05-30
 
 * 2 minor enhancements:
